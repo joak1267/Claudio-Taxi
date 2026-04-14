@@ -7,7 +7,7 @@ export const metadata = {
   title: "Claudio Taxi",
   description: "Servicio de transporte privado Premium en CABA y GBA.",
   icons: {
-    icon: "/favicon.ico", // Asegurate de que el archivo esté en la carpeta /public
+    icon: "/favicon_io/favicon.ico", // Asegurate de que el archivo esté en la carpeta /public
     apple: "/apple-touch-icon.png", // Ícono para cuando guardan la web en el iPhone
   },
 };
